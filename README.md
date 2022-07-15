@@ -1,3 +1,12 @@
+### Current status 
+
+Uncaught TypeError: Cannot read properties of undefined (reading 'params')
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
